@@ -1,0 +1,3 @@
+exposure_group,ieu_id,exposure,exposure_units,exposure_snps,ancestry,sex,multiple_testing_correction,confirm
+smoking_initiation_ancestry,ieu-b-4877,smoking initiation,log-OR ever smoked,,EUR,both,BH,yes
+smoking_initiation_ancestry,bbj-a-78,smoking initiation,log-OR ever smoked,,EAS,both,BH,yes

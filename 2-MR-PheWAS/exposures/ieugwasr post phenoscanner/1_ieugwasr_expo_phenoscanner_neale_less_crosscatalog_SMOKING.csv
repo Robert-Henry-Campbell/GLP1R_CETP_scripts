@@ -1,0 +1,2 @@
+exposure_group,ieu_id,exposure,exposure_units,exposure_snps,ancestry,sex,multiple_testing_correction,confirm,phenoscanner_exclusions
+smoking,ieu-a-962,smoking initiation,log-OR ever-smoker,,eur,both,BH,yes,"educat, school"

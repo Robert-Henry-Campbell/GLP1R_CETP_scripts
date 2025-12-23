@@ -1,0 +1,4 @@
+exposure_group,ieu_id,exposure,exposure_units,exposure_snps,ancestry,sex,multiple_testing_correction,confirm,phenoscanner_exclusions,,attempted
+smoking_initiation_sex,bbj-a-79,smoking initiation,log-OR ever smoked,,EAS,male,BH,yes,"educat, school",,27.9.28
+smoking_initiation_sex,bbj-a-80,smoking initiation,log-OR ever smoked,,EAS,female,BH,yes,"educat, school",,27.9.29
+smoking,ieu-a-962,smoking initiation,log-OR ever smoked,,EUR,both,BH,yes,"educat, school",,

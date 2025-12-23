@@ -1,0 +1,2 @@
+id.exposure,exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,F
+CETP-male,CETP,rs247617,A,C,.318064/57845,-0.391584,0.1043,0.000173827,14.09

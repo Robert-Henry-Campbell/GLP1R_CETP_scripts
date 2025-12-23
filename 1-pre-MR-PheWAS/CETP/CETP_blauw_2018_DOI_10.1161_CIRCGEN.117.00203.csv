@@ -1,0 +1,4 @@
+id,exposure,SNP,effect_allele,other_allele,eaf,beta,se,pval,F
+CETP,CETP,rs247616,T,C,0.333,-0.321,0.015,3.98E?100,457.96
+CETP,CETP,rs12720922,A,G,0.168,0.348,0.019,3.48E?74,335.47
+CETP,CETP,rs1968905,G,T,0.824,0.117,0.02,4.12E?09,34.22

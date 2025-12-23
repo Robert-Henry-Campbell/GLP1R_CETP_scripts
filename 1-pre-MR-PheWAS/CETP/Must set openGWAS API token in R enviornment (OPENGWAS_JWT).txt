@@ -1,0 +1,2 @@
+to run these scripts, you must get an openGWAS token to query the openGWAS API, and set it as follows:
+Sys.setenv(OPENGWAS_JWT = "YOUR_TOKEN_HERE")

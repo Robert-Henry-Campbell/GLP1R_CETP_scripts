@@ -1,0 +1,3 @@
+exposure_group,ieu_id,exposure,exposure_units,exposure_snps,ancestry,sex,multiple_testing_correction,confirm
+lefthandedness,ukb-a-36,left-handedness,log-OR sinestral,,EUR,both,BH,yes
+ambidextrous,ukb-a-37,ambidextrous,log-OR ambidextrous,,EUR,both,BH,yes
