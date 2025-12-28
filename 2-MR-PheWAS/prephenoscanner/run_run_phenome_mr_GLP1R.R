@@ -21,3 +21,4 @@ GLP1_run <- run_phenome_mr(exposure = 'GLP1R',
                        sensitivity_pass_min = 6
 )
 
+
