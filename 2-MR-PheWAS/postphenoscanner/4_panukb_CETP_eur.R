@@ -15,7 +15,7 @@ Sys.setenv(ARDMR_CACHE_DIR = 'C:\\Users\\Robert\\Downloads\\ardmr')
 
 
 # snps
-cetp_snps <- read.csv("G:\\My Drive\\Documents\\0Oxford_main\\ARD paper\\3_ARD_MR\\exposures to run on\\CETP\\CETP_blauw 2018 DOI_10.1161 CIRCGEN.117.00203.csv")
+cetp_snps <- read.csv("2-MR-PheWAS/exposures/CETP/CETP_blauw 2018 DOI_10.1161 CIRCGEN.117.00203.csv")
 
 
 CETP_run <- run_phenome_mr(exposure = 'CETP',
@@ -28,4 +28,3 @@ CETP_run <- run_phenome_mr(exposure = 'CETP',
                            force_refresh = TRUE,
                            sensitivity_pass_min = 5
 )
-
