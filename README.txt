@@ -13,7 +13,7 @@ install.packages("renv")   # if needed
 renv::restore()            # reads renv.lock and installs the same package versions
 ###
 
-after this, each script should run normally. 
+after this, each script should run normally. Results for the pre-MR-PheWAS will be written to their local directory. Results from MR-PheWAS will be written to /3-output/. 
 
 Notes: 
 
