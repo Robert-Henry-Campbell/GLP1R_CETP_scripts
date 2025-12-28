@@ -17,7 +17,7 @@ Sys.setenv(OPENGWAS_JWT = "eyJhbGciOiJSUzI1NiIsImtpZCI6ImFwaS1qd3QiLCJ0eXAiOiJKV
 Sys.setenv(ARDMR_CACHE_DIR = 'C:\\Users\\Robert\\Downloads\\ardmr')
 
 #set csv path
-csv_path = 'G:\\My Drive\\Documents\\0Oxford_main\\ARD paper\\3_ARD_MR\\exposures to run on\\ieugwasr_exposures_23.9.25_ancestry_specific_only_neg_controls.csv'
+csv_path = '2-MR-PheWAS/exposures/ieugwasr pre phenoscanner/ieugwasr_exposures_23.9.25_ancestry_specific_only_neg_controls.csv'
 
 #call the ard_compare_grouped_ieugwasr
 result <- run_ieugwasr_ard_compare(

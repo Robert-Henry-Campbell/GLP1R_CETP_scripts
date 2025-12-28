@@ -19,10 +19,10 @@ Sys.setenv(ARDMR_CACHE_DIR = 'C:\\Users\\Robert\\Downloads\\ardmr')
 
 
 #set csv paths and snps
-glp1r_snps <-  read.csv("G:\\My Drive\\Documents\\0Oxford_main\\ARD paper\\3_ARD_MR\\exposures to run on\\glp1\\js9_2024_04_20_deng_ijs-d-24-00929r1_sdc1_READY_MR.csv")
-cetp_male_snps <- read.csv("G:\\My Drive\\Documents\\0Oxford_main\\ARD paper\\3_ARD_MR\\exposures to run on\\CETP\\CETP_male_MR_ready.csv")
-cetp_female_snps <- read.csv("G:\\My Drive\\Documents\\0Oxford_main\\ARD paper\\3_ARD_MR\\exposures to run on\\CETP\\CETP_female_MR_ready.csv")
-cetp_both_snps <- read.csv("G:\\My Drive\\Documents\\0Oxford_main\\ARD paper\\3_ARD_MR\\exposures to run on\\CETP\\CETP_blauw 2018 DOI_10.1161 CIRCGEN.117.00203.csv")
+glp1r_snps <-  read.csv("2-MR-PheWAS/exposures/glp1/js9_2024_04_20_deng_ijs-d-24-00929r1_sdc1_READY_MR.csv")
+cetp_male_snps <- read.csv("2-MR-PheWAS/exposures/CETP/CETP_male_MR_ready.csv")
+cetp_female_snps <- read.csv("2-MR-PheWAS/exposures/CETP/CETP_female_MR_ready.csv")
+cetp_both_snps <- read.csv("2-MR-PheWAS/exposures/CETP/CETP_blauw 2018 DOI_10.1161 CIRCGEN.117.00203.csv")
 
 
 ####GLP1 by SEX
