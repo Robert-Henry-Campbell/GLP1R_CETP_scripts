@@ -2,17 +2,13 @@
 
 rm(list = ls())
 
-setwd('G:\\My Drive\\Documents\\0Oxford_main\\ARD paper\\ardmr')
-#pull
-#system("git fetch origin")
-#system("git pull origin main")
+script_dir <- dirname(this.path::this.path())
+setwd(normalizePath(file.path(script_dir, "..", "..")))
+Sys.setenv(ARDMR_CACHE_DIR = '3-output')
 
+library(ardmr)
 
-#save chagen and make them avalible in local session
-devtools::load_all()
-Sys.setenv(ARDMR_CACHE_DIR = 'C:\\Users\\Robert\\Downloads\\ardmr')
-
-
+Sys.setenv(OPENGWAS_JWT = "YOUR TOKEN GOES HERE")
 
 # snps
 cetp_snps <- read.csv("2-MR-PheWAS/exposures/CETP/CETP_blauw 2018 DOI_10.1161 CIRCGEN.117.00203.csv")
